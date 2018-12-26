@@ -1,5 +1,9 @@
 class Demo
 {
+  void ADD()
+  {
+    a+b
+  }
   void DEPOSITE()
   {
    .....
