@@ -1,5 +1,9 @@
 class Demo
 {
+  void SUB()
+  {
+    a-b
+  }
   void ADD()
   {
     a+b
